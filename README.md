@@ -1,6 +1,6 @@
 # What's this?
 
-This is script to convert id.json file to base58-encode private key string and vice versa.
+This is script to convert id.json file to base58-encoded private key string and vice versa.
 
 # How to use?
 
@@ -25,6 +25,12 @@ This is script to convert id.json file to base58-encode private key string and v
       ```
       source ./env/bin/activate
       ```
+
+- ## Install dependencies
+
+  ```
+  pip install -r requirements.txt
+  ```
 
 - ## Use script
 
